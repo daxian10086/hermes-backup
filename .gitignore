@@ -18,3 +18,7 @@ build/
 # Sessions (may contain secrets)
 sessions/
 sessions/
+.env
+state.db
+state.db-shm
+state.db-wal
