@@ -1,0 +1,1 @@
+{"pid": 665, "kind": "hermes-gateway", "argv": ["/usr/local/bin/hermes", "gateway", "run"], "start_time": 70087, "gateway_state": "running", "exit_reason": null, "restart_requested": false, "active_agents": 0, "platforms": {"feishu": {"state": "connected", "updated_at": "2026-04-11T10:29:32.140620+00:00"}}, "updated_at": "2026-04-11T10:29:32.143950+00:00"}

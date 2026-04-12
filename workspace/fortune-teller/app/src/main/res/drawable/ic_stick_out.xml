@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- 签桶 -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M70,50 L130,50 L128,165 L72,165 Z" />
+    
+    <!-- 剩余的签 -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M80,60 L82,110 L88,110 L90,60 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M92,58 L94,112 L100,112 L102,58 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M104,60 L106,110 L112,110 L114,60 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M116,62 L118,108 L124,108 L126,62 Z" />
+    
+    <!-- 掉出的签 - 红色 -->
+    <path
+        android:fillColor="#FF4444"
+        android:pathData="M145,50 L150,130 L155,130 L160,50 Z" />
+    <!-- 签头 -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M145,50 L150,35 L155,35 L155,45 L145,45 Z" />
+</vector>

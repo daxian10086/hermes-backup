@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:paddingLeft="64dp"
+    android:paddingRight="64dp"
+    android:paddingTop="40dp"
+    android:paddingBottom="40dp"
+    android:background="@drawable/bg_share_blur"
+    android:layout_margin="16dp">
+
+    <TextView
+        android:id="@+id/shareBlurText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🔒 内容已隐藏"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:textColor="@color/brown_700"
+        android:layout_marginBottom="24dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/shareBlurHint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="分享给好友即可查看运势详解"
+        android:textSize="30sp"
+        android:textColor="@color/gray_600"
+        android:textAlignment="center"
+        android:layout_marginBottom="48dp"
+        android:gravity="center" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/shareBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="立即分享"
+        android:textSize="32sp"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/brown_700"
+        app:cornerRadius="16dp" />
+
+</LinearLayout>

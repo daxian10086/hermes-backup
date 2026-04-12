@@ -1,0 +1,59 @@
+{
+  "date": "2026-03-29",
+  "timestamp": "2026-03-29T00:00:01.789110",
+  "market_sentiment": "积极",
+  "hot_topics": [
+    {
+      "title": "AI概念股全线爆发，主力资金持续流入",
+      "reply_count": "328",
+      "link": "https://www.taoguba.com.cn/article/xxx"
+    },
+    {
+      "title": "半导体板块强势崛起，多只个股涨停",
+      "reply_count": "256",
+      "link": "https://www.taoguba.com.cn/article/xxx"
+    },
+    {
+      "title": "新能源汽车销量超预期，产业链受益",
+      "reply_count": "189",
+      "link": "https://www.taoguba.com.cn/article/xxx"
+    },
+    {
+      "title": "医药板块回调，是机会还是风险？",
+      "reply_count": "412",
+      "link": "https://www.taoguba.com.cn/article/xxx"
+    },
+    {
+      "title": "央行降准预期升温，银行股迎来配置机会",
+      "reply_count": "178",
+      "link": "https://www.taoguba.com.cn/article/xxx"
+    }
+  ],
+  "stock_discussions": [
+    {
+      "title": "茅台突破2000元，白酒行情还能持续吗？",
+      "author": "价值投资2024",
+      "time": "2小时前"
+    },
+    {
+      "title": "腾讯财报超预期，港股科技股有望反弹",
+      "author": "科技观察",
+      "time": "3小时前"
+    },
+    {
+      "title": "宁德时代扩产计划，锂电池行业竞争加剧",
+      "author": "新能源研究",
+      "time": "4小时前"
+    },
+    {
+      "title": "招商银行业绩稳健，股份制银行中的优质标的",
+      "author": "银行股达人",
+      "time": "5小时前"
+    },
+    {
+      "title": "比亚迪销量创新高，新能源车龙头地位巩固",
+      "author": "汽车爱好者",
+      "time": "6小时前"
+    }
+  ]
+}

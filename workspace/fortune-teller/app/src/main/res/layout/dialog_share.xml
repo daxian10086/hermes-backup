@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:paddingLeft="64dp"
+    android:paddingRight="64dp"
+    android:paddingTop="48dp"
+    android:paddingBottom="48dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🎁"
+        android:textSize="100sp"
+        android:layout_marginBottom="32dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="解锁完整内容"
+        android:textSize="44sp"
+        android:textStyle="bold"
+        android:textColor="@color/brown_700"
+        android:layout_marginBottom="24dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="分享给好友后即可查看完整的解卦内容和六爻详解"
+        android:textSize="30sp"
+        android:textColor="@color/gray_600"
+        android:textAlignment="center"
+        android:layout_marginBottom="48dp"
+        android:gravity="center" />
+
+</LinearLayout>

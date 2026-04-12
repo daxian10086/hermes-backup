@@ -1,0 +1,20 @@
+# 排除的文件
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+node_modules/
+.DS_Store
+*.apk
+*.aab
+apk/
+build/
+.gradle/
+
+# Sessions (may contain secrets)
+sessions/
+sessions/

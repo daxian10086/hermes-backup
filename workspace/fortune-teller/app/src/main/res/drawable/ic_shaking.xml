@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- 签桶 -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M70,50 L130,50 L128,165 L72,165 Z" />
+    
+    <!-- 签条 - 金色 -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M80,60 L82,120 L88,120 L90,60 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M92,58 L94,122 L100,122 L102,58 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M104,60 L106,120 L112,120 L114,60 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M116,62 L118,118 L124,118 L126,62 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M85,65 L87,115 L93,115 L95,65 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M97,63 L99,118 L105,118 L107,63 Z" />
+</vector>
